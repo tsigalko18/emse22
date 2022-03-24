@@ -1,0 +1,13 @@
+{
+    "cam/image_array": "94_cam-image_array_.jpg",
+    "cte": -0.005351015,
+    "lap": null,
+    "milliseconds": 4769,
+    "pilot/angle": 0.029978249222040176,
+    "pilot/throttle": 0.2854941189289093,
+    "sector": null,
+    "speed": 2.762129,
+    "user/angle": 0.0,
+    "user/mode": "local",
+    "user/throttle": 0.0
+}

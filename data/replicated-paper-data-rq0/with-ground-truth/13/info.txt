@@ -1,0 +1,17 @@
+Road Type: Bend Road
+Curve Radius: 40m
+Road Direction: Left
+Road Specific Property: Length 30m
+Trees: 0
+Light poles: No
+Lane Number: Right 
+Vehicle Infront of ego vehicle: No
+Vehicle In Adjacent Lane: No
+Mountains: Multiple 
+Road Sidewalk: No
+Road Embankments: No
+Buildings: Multiple 
+Road Guard rail: No
+Speed : 25 km/h 
+Vehicle in opposite direction: Yes 
+Ref: 120100000100200051

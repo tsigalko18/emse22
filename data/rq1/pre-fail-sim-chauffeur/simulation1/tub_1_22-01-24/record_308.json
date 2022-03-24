@@ -1,0 +1,13 @@
+{
+    "cam/image_array": "308_cam-image_array_.jpg",
+    "cte": 2.738351,
+    "lap": null,
+    "milliseconds": 15541,
+    "pilot/angle": 0.31893008947372437,
+    "pilot/throttle": 0.2734997272491455,
+    "sector": null,
+    "speed": 5.355174,
+    "user/angle": 0.0,
+    "user/mode": "local",
+    "user/throttle": 0.0
+}

@@ -1,4 +1,4 @@
-# ESEC/FSE 2022
+# Model vs System Level Testing of Autonomous Driving Systems: A Replication and Extension Study
 Artifacts accompanying the paper *"Model vs System Level Testing of Autonomous Driving Systems: A Replication and Extension Study"* submitted for publication at EMSE.
 
 ### Replicated paper

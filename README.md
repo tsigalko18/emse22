@@ -11,4 +11,4 @@ For RQ0, we were able to download complete output data from [this link](http://t
 
 ### Datasets & Simulator
 
-Driving datasets, self-driving car models, and simulator have a combined size of several GBs. For the submission, we uploaded only a small sample of the data. We will make all artifacts available upon paper's acceptance. 
+Driving datasets, self-driving car models, and simulator have a combined size of several GBs. For the submission, we uploaded only a small sample of the data. We will make all artifacts available upon request. 

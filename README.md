@@ -1,5 +1,5 @@
 # ESEC/FSE 2022
-Artifacts accompanying the paper *"Model vs System Level Testing of Autonomous Driving Systems: A Replication and Extension Study"* submitted for publication at ESEC/FSE 2022
+Artifacts accompanying the paper *"Model vs System Level Testing of Autonomous Driving Systems: A Replication and Extension Study"* submitted for publication at EMSE.
 
 ### Replicated paper
 This paper compares and extends the paper *"Comparing Offline and Online Testing of Deep Neural Networks: An Autonomous Car Case Study"* by Ul Haq et al., published at ICST 2021. You can find an archival version of the work [here](https://arxiv.org/abs/1912.00805).
